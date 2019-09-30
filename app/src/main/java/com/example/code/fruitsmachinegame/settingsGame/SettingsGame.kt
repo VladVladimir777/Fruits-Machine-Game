@@ -1,4 +1,4 @@
-package com.example.code.slotmachinegame.settingsGame
+package com.example.code.fruitsmachinegame.settingsGame
 
 import android.content.Context
 import com.orhanobut.hawk.Hawk

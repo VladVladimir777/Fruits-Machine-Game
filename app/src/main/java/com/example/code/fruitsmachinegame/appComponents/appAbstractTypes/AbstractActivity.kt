@@ -1,8 +1,8 @@
-package com.example.code.slotmachinegame.appComponents.appAbstractTypes
+package com.example.code.fruitsmachinegame.appComponents.appAbstractTypes
 
 import androidx.appcompat.app.AppCompatActivity
-import com.example.code.slotmachinegame.appComponents.appCallbacks.FragmentsCallback
-import com.example.code.slotmachinegame.appComponents.appCallbacks.ToolbarCallback
+import com.example.code.fruitsmachinegame.appComponents.appCallbacks.FragmentsCallback
+import com.example.code.fruitsmachinegame.appComponents.appCallbacks.ToolbarCallback
 
 abstract class AbstractActivity : AppCompatActivity() {
 

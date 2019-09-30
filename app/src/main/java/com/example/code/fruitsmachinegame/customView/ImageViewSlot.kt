@@ -1,4 +1,4 @@
-package com.example.code.slotmachinegame.customView
+package com.example.code.fruitsmachinegame.customView
 
 import android.animation.Animator
 import android.content.Context
@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.ImageView
 import androidx.constraintlayout.widget.ConstraintLayout
-import com.example.code.slotmachinegame.R
-import com.example.code.slotmachinegame.fragmentGame.*
+import com.example.code.fruitsmachinegame.R
+import com.example.code.fruitsmachinegame.fragmentGame.*
 import kotlinx.android.synthetic.main.image_view_slot.view.*
 
 class ImageViewSlot : ConstraintLayout {

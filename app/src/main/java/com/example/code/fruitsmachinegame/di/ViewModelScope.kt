@@ -1,4 +1,4 @@
-package com.example.code.slotmachinegame.di
+package com.example.code.fruitsmachinegame.di
 
 import javax.inject.Scope
 

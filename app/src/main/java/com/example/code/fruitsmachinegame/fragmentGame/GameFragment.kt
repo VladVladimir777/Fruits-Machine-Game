@@ -1,4 +1,4 @@
-package com.example.code.slotmachinegame.fragmentGame
+package com.example.code.fruitsmachinegame.fragmentGame
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,9 +8,9 @@ import android.widget.Toast
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import com.example.code.slotmachinegame.R
-import com.example.code.slotmachinegame.appComponents.appAbstractTypes.AbstractFragment
-import com.example.code.slotmachinegame.customView.ImageViewSlot
+import com.example.code.fruitsmachinegame.R
+import com.example.code.fruitsmachinegame.appComponents.appAbstractTypes.AbstractFragment
+import com.example.code.fruitsmachinegame.customView.ImageViewSlot
 import kotlinx.android.synthetic.main.fragment_game.*
 import java.util.*
 

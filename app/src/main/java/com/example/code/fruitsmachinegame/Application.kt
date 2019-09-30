@@ -1,7 +1,7 @@
-package com.example.code.slotmachinegame
+package com.example.code.fruitsmachinegame
 
 import androidx.multidex.MultiDexApplication
-import com.example.code.slotmachinegame.di.*
+import com.example.code.fruitsmachinegame.di.*
 
 class Application : MultiDexApplication() {
 

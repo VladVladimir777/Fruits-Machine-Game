@@ -1,4 +1,4 @@
-package com.example.code.slotmachinegame
+package com.example.code.fruitsmachinegame
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

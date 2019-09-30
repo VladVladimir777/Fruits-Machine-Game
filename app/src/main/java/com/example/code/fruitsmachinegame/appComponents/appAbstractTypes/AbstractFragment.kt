@@ -1,9 +1,9 @@
-package com.example.code.slotmachinegame.appComponents.appAbstractTypes
+package com.example.code.fruitsmachinegame.appComponents.appAbstractTypes
 
 import android.content.Context
 import androidx.fragment.app.Fragment
-import com.example.code.slotmachinegame.appComponents.appCallbacks.FragmentsCallback
-import com.example.code.slotmachinegame.appComponents.appCallbacks.ToolbarCallback
+import com.example.code.fruitsmachinegame.appComponents.appCallbacks.FragmentsCallback
+import com.example.code.fruitsmachinegame.appComponents.appCallbacks.ToolbarCallback
 
 abstract class AbstractFragment : Fragment() {
 

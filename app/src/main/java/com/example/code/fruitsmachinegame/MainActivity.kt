@@ -1,11 +1,11 @@
-package com.example.code.slotmachinegame
+package com.example.code.fruitsmachinegame
 
 import android.os.Bundle
 import android.view.WindowManager
-import com.example.code.slotmachinegame.appComponents.appAbstractTypes.AbstractActivity
-import com.example.code.slotmachinegame.appComponents.appCallbacks.FragmentsCallback
-import com.example.code.slotmachinegame.appComponents.appCallbacks.ToolbarCallback
-import com.example.code.slotmachinegame.fragmentGame.GameFragment
+import com.example.code.fruitsmachinegame.appComponents.appAbstractTypes.AbstractActivity
+import com.example.code.fruitsmachinegame.appComponents.appCallbacks.FragmentsCallback
+import com.example.code.fruitsmachinegame.appComponents.appCallbacks.ToolbarCallback
+import com.example.code.fruitsmachinegame.fragmentGame.GameFragment
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AbstractActivity(), FragmentsCallback, ToolbarCallback {

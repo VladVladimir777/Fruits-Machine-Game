@@ -1,6 +1,6 @@
-package com.example.code.slotmachinegame.di
+package com.example.code.fruitsmachinegame.di
 
-import com.example.code.slotmachinegame.MainActivity
+import com.example.code.fruitsmachinegame.MainActivity
 import dagger.Component
 import javax.inject.Singleton
 

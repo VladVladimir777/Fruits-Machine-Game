@@ -1,7 +1,7 @@
-package com.example.code.slotmachinegame.di
+package com.example.code.fruitsmachinegame.di
 
 import android.content.Context
-import com.example.code.slotmachinegame.settingsGame.SettingsGame
+import com.example.code.fruitsmachinegame.settingsGame.SettingsGame
 import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton

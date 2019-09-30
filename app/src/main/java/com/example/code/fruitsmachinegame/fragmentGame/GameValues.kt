@@ -1,4 +1,4 @@
-package com.example.code.slotmachinegame.fragmentGame
+package com.example.code.fruitsmachinegame.fragmentGame
 
 const val APPLE = 0
 const val KIWI = 1

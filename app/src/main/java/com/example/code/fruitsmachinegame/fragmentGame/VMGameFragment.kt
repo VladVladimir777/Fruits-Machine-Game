@@ -1,9 +1,9 @@
-package com.example.code.slotmachinegame.fragmentGame
+package com.example.code.fruitsmachinegame.fragmentGame
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
-import com.example.code.slotmachinegame.settingsGame.SettingsGame
+import com.example.code.fruitsmachinegame.settingsGame.SettingsGame
 import javax.inject.Inject
 
 class VMGameFragment(application: Application) : AndroidViewModel(application) {
@@ -13,7 +13,7 @@ class VMGameFragment(application: Application) : AndroidViewModel(application) {
     private var data = MutableLiveData<Int>()
 
     init {
-        (application as com.example.code.slotmachinegame.Application)
+        (application as com.example.code.fruitsmachinegame.Application)
             .viewModelComponent.inject(this)
     }
 

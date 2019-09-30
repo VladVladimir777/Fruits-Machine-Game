@@ -16,19 +16,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <com.example.code.slotmachinegame.customView.ImageViewSlot
+        <com.example.code.fruitsmachinegame.customView.ImageViewSlot
             android:id="@+id/slot1"
             android:layout_width="150dp"
             android:layout_height="120dp"
             android:layout_margin="5dp" />
 
-        <com.example.code.slotmachinegame.customView.ImageViewSlot
+        <com.example.code.fruitsmachinegame.customView.ImageViewSlot
             android:id="@+id/slot2"
             android:layout_width="150dp"
             android:layout_height="120dp"
             android:layout_margin="5dp" />
 
-        <com.example.code.slotmachinegame.customView.ImageViewSlot
+        <com.example.code.fruitsmachinegame.customView.ImageViewSlot
             android:id="@+id/slot3"
             android:layout_width="150dp"
             android:layout_height="120dp"
