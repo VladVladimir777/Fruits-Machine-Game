@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Slot Machine Game</string>
+
+    <string name="message_win">You win!</string>
+    <string name="message_lucky">You are lucky!</string>
+    <string name="message_lose">You lose ((</string>
+    <string name="btn_play">Play</string>
+
 </resources>
